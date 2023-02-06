@@ -5,3 +5,5 @@ for i in range(0, notas):
     dinheiro = int(input())
     din += dinheiro
 print("%d" % din)
+
+''' qualquer coisa tipo assim '''
