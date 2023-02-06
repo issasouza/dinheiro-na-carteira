@@ -7,3 +7,5 @@ for i in range(0, notas):
 print("%d" % din)
 
 ''' qualquer coisa tipo assim '''
+
+# aaaaaaaaaaaaaaaa
